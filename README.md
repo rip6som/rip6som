@@ -1,16 +1,15 @@
-## Hi there 👋
+## Sup
+Python programmer.
 
-<!--
-**rip6som/rip6som** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hard Skills:
+  ▶ Python, OOP, Algorithms;
+  ▶ Flask;
+  ▶ Pygame;
+  ▶ SQL;
+  ▶ CSS, HTML;
 
-Here are some ideas to get you started:
+## Current working:
+  ▶ AI-Helper (PC)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Concats:
+  ▶ [t](https://t.me/Ripsom)
