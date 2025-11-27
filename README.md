@@ -1,5 +1,5 @@
 ## Sup
-Python programmer.
+Python programmer. 14 yo
 
 ## Hard Skills:
   ◆ Python, OOP, Algorithms;
