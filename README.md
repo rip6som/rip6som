@@ -3,7 +3,7 @@ Python programmer. 14 yo
 
 ## Hard Skills:
   - Python, OOP, Algorithms;
-  - ◆ Flask;
+  - Flask;
   - Pygame;
   - SQL;
   - CSS, HTML;
